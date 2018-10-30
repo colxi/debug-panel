@@ -1,0 +1,15 @@
+{
+    "name": "debug-panel",
+    "description": "Collapsable Panel for debbuging purposes",
+    "version": "0.0.2",
+    "main": "./src/debugger.js",
+    "keywords": [],
+    "author": "colxi",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/colxi/"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
